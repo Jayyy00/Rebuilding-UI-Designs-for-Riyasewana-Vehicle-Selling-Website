@@ -3,7 +3,7 @@
 
 Figma Link- https://www.figma.com/file/knpQXQmu6K0KaZa5EJZh0D/Untitled?type=design&node-id=10%3A34&mode=design&t=BKoFTrit3KxxFkxJ-1
 
-<h2>Rebuild UI,</h2>
+<h2>Redesigned UI,</h2>
 <p>Home page,</p>
 
 ![homepage](https://github.com/Jayyy00/Rebuilding-UI-Designs-for-Riyasewana-Vehicle-Selling-Website/assets/99647114/7d0a1d02-50dc-43cf-b129-18b6cf00986b)
